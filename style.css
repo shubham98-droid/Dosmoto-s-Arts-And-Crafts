@@ -1,0 +1,19 @@
+.main{
+    background-image: url("./images/pattern.webp");
+    font-family: Helvetica;
+font-size: 100px;
+font-weight: bold;
+color: khaki;
+}
+.brush{
+    background-color: greenyellow;
+}
+.frame{
+    background-color: lightcoral;
+}
+.paint{
+    background-color: skyblue;
+}
+a{
+    text-decoration: none;
+}
